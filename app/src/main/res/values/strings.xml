@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">MusicPlayerMultiScreen</string>
+    <string name="Cat_Albums">Albums</string>
+    <string name="Cat_Songs">Songs</string>
+    <string name="Cat_Artists">Artists</string>
+    <string name="NowPlaying">Playing</string>
+
+    song One
+    <string name="albumOne">Drive</string>
+    <string name="songOne">Drive</string>
+    <string name="artistOne">Incubus</string>
+
+    song two
+    <string name="albumTwo">Drive</string>
+    <string name="songTwo">Drive</string>
+    <string name="artistTwo">Incubus</string>
+
+    song three
+    <string name="albumThree">Drive</string>
+    <string name="songThree">Drive</string>
+    <string name="artistThree">Incubus</string>
+
+</resources>
